@@ -1,14 +1,20 @@
-# Ilianne-s-Law
-low-ℓ anomalies
+This model offers an alternative to inflation-based explanations by introducing:
 
-           4/2/25 - i will open a folder with some of my work looking further into this. There were some helpful people on reddit and their suggestions should be shown and addressed.
-The model fits low-ℓ anomalies like the “Axis of Evil” without requiring inflation
+- A tunable **recursive modulation function**
+- A time-recursive memory kernel embedded in the primordial source function
 
-It uses a tunable recursive modulation function
-It also embeds a time-recursive memory kernel over the primordial source function
-With parameters like ε = 0.3, ω = 0.25, B = 1.1 and δ = π/6, I found a strong visual and residual match to the Planck TT power spectrum (ℓ = 2–20)
+With parameter values:  
+ε = 0.3, ω = 0.25, B = 1.1, and δ = π/6,  
+I found strong **visual** and **residual** alignment with Planck TT power spectrum data for multipoles ℓ = 2–20.
 
-I am aware naming something is uselly frowned upon. The paper im Offically writing, where the name was keyed. I wrote:
-¹If the principles outlined in this section are eventually recognized within formal physics, the author humbly proposes that the formulation may be designated Illianne’s Law, in recognition of the recursive systems logic underpinning this field-lattice framework. This naming is symbolic; the author is equally content for the contribution to remain anonymous if so preferred by the academic community.¹ 
+### Naming and Intent
 
-i needed a placeholder and I humbly ask for understanding. The name gives meaning to the work i do, but i stay partial to my work. 
+The name *Ilianne’s Law* is provisional and symbolic — it helped me stay connected to the vision behind the model. In my formal paper, I wrote:
+
+> “If the principles outlined here are eventually recognized within formal physics, the author humbly proposes that the formulation be designated *Ilianne’s Law*, in recognition of the recursive systems logic underpinning this field-lattice framework. This naming is symbolic; the author is equally content for the contribution to remain anonymous if so preferred by the academic community.”
+
+### Note
+
+This repository is for open exploration. The math is still being tested. Peer critique is welcome — especially from those who can help formalize boundary recursion or derive constraints from first principles.
+
+Thank you for reading,
