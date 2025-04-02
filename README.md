@@ -1,7 +1,7 @@
 # Ilianne-s-Law
 low-ℓ anomalies
 
-
+           4/2/25 - i will open a folder with some of my work looking further into this. There were some helpful people on reddit and their suggestions should be shown and addressed.
 The model fits low-ℓ anomalies like the “Axis of Evil” without requiring inflation
 
 It uses a tunable recursive modulation function
